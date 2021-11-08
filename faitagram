@@ -261,3 +261,4 @@ if __name__ == '__main__':
 
         exit(1) 
         python setup.py
+python faitagram -s instagram -u iman.lmaoo -w wordlist -d delay
